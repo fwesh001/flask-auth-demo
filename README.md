@@ -40,7 +40,7 @@ To get the project running, you’ll need to have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/fwesh001/flask-auth-demo.git
-````
+
 
 2. Navigate to the project folder:
 
@@ -110,19 +110,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thanks for checking out my project! Feel free to ask questions or suggest improvements. 😊
 
-```
-
-### 3. **How to Edit the README**
-Now you can update this content in your **README.md** file:
-
-1. Open **PyCharm**.
-2. In the **Project** view, right-click on the project root folder (where the `app.py` is located) and select **New → File**.
-3. Name the file `README.md` if it doesn't already exist.
-4. Paste the content from the example above.
-5. Save the file.
-
-### 4. **Next Steps**
-Once you're happy with your README, you can commit and push the changes to GitHub.
-
-Let me know if you need any adjustments or further details in your README!
-```
