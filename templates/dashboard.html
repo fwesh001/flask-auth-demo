@@ -11,6 +11,15 @@
 <body>
     <h1>Hello you are logged in.</h1>
     <a href="{{url_for('logout')}}">Press here to logout</a>
+{% extends 'base.html' %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+    <div class="text-center mt-5">
+        <h1>Welcome, {{ current_user.username }} 👋</h1>
+        <p class="lead">This is your dashboard!</p>
+    </div>
+{% endblock %}
+
 </body>
 
 </html>
